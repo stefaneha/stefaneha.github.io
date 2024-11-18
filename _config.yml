@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Stefan E. Huber"
 title_separator          : "-"
-name                     : &name "Stefan Huber"
+name                     : &name "Stefan E. Huber"
 description              : &description "personal description"
 url                      : https://stefaneha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Stefan E. Huber"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher | Psychologist | Data Scientist | Lecturer"
+  bio              : "Researcher | Psychologist | Lecturer"
   location         : "Graz Austria"
   employer         : "University of Graz"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/stefan-huber-aa5a92320/"
+  linkedin         : "stefan-huber-aa5a92320"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
