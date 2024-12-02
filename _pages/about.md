@@ -18,7 +18,7 @@ Stefan
 
 <figure>
   <img src="/images/Stefan_Huber_Prag_Bridge_v2.jpg"/>
-  <footer><small>(c) Markus Martini</small></footer>
+  <figcaption><footer><small>(c) Markus Martini</small></footer></figcaption>
 </figure>
 
 <!---
