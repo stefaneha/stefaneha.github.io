@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-My name is Stefan and I am currently affiliated with the [Digital Psychology Lab](https://digilab.uni-graz.at/en/) at the [University of Graz](https://www.uni-graz.at/en/).
+My name is Stefan and I am currently affiliated with the [Digital Psychology Lab](https://digilab.uni-graz.at/en/){:target="_blank"} at the [University of Graz](https://www.uni-graz.at/en/){:target="_blank"}.
 
 More about me is soon to follow.
 
