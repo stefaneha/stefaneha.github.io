@@ -3,6 +3,7 @@ title: "Leveraging the Potential of Large Language Models in Education Through P
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-paper-title-number-1
+excerpt: 'Reflection on the Field'
 date: 2024-10-01
 venue: 'Educational Psychology Review'
 paperurl: 'https://doi.org/10.1007/s10648-024-09868-z'
