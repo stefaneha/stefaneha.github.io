@@ -6,7 +6,7 @@ permalink: /publication/2024-10-01-paper-title-number-1
 excerpt: '...'
 date: 2024-10-01
 venue: 'Educational Psychology Review'
-paperurl: 'https://link.springer.com/article/10.1007/s10648-024-09868-z'
+paperurl: 'https://link.springer.com/article/10.1007/s10648-024-09868-z{:target="_blank"}'
 citation: 'Huber, S. E., Kiili, K., Nebel, S., Ryan, R. M., Sailer, M., & Ninaus, M. (2024). &quot;Leveraging the Potential of Large Language Models in Education Through Playful and Game‑Based Learning.&quot; <i>Educational Psychology Review, 36</i>(1), 25. https://doi.org/10.1007/s10648-024-09868-z'
 ---
 
