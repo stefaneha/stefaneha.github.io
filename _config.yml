@@ -80,7 +80,7 @@ publication_category:
     title: 'Books'
   articles:
     title: 'Journal Articles'    
-  conferences:
+  proceedings:
     title: 'Conference Papers'
   miscellaneous:
     title: 'Book Chapters, Reports, and Other'
