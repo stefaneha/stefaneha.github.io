@@ -1,7 +1,7 @@
 ---
 title: "Game elements improve affect and motivation in a learning task"
 collection: publications
-category: manuscripts
+category: articles
 permalink: /publication/2024-11-01_huber_game_elements
 excerpt: '<i>Keywords:</i> Game elements; Affect; Motivation; Memory; Game-based learning; Gamification'
 date: 2024-11-01

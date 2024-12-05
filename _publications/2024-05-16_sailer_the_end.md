@@ -1,7 +1,7 @@
 ---
 title: "The End is the Beginning is the End: The closed-loop learning analytics framework"
 collection: publications
-category: manuscripts
+category: articles
 permalink: /publication/2024-05-16_sailer_the_end
 excerpt: '<i>Keywords:</i> Learning analytics; Multimodal; Artificial intelligence; Education; Adaptivity; Personalization'
 date: 2024-05-16

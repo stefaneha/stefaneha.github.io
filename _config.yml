@@ -78,11 +78,11 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  articles:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  chapters:
+  miscellaneous:
     title: 'Book Chapters, Reports, and Other'
 
 # Site Settings
