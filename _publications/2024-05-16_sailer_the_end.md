@@ -1,5 +1,5 @@
 ---
-title: "Leveraging the Potential of Large Language Models in Education Through Playful and Game‑Based Learning"
+title: "The End is the Beginning is the End: The closed-loop learning analytics framework"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-16_sailer_the_end

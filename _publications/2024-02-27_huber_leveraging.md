@@ -3,7 +3,7 @@ title: "Leveraging the Potential of Large Language Models in Education Through P
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-27_huber_leveraging
-excerpt: 'Reflection on the Field'
+excerpt: '<i>Keywords:</i> Large language models; Generative artificial intelligence; Education; Playful learning; Gamification; Game-based learning'
 date: 2024-02-27
 venue: 'Educational Psychology Review'
 paperurl: 'https://doi.org/10.1007/s10648-024-09868-z'
