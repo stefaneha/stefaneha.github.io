@@ -3,8 +3,10 @@ title: "(1) Die Verkörperung der Aufmerksamkeit. Erste Überlegungen und Unters
 allgemeinen Theorie menschlichen Blinzelns"
 collection: publications
 category: books
-permalink: /publication/2021-01-01_huber_eye_blink_book
+permalink: /publication/2021-06-01_huber_eye_blink_book
 excerpt: 'Conceptualization and some empirical tests of a theory of human eye blinking (only available in German)'
+date: 2021-06-01
+venue: 'Innsbruck: innsbruck university press'
 citation: 'Huber, S. E. (2021). <i>Die Verkörperung der Aufmerksamkeit. Erste Überlegungen und Untersuchungen zu einer
 allgemeinen Theorie menschlichen Blinzelns</i>. Innsbruck: innsbruck university press.'
 ---
