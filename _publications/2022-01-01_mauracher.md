@@ -1,5 +1,5 @@
 ---
-title: "Dissociative electron attachment to fluorinated nitrobenzenes"
+title: "54. Dissociative electron attachment to fluorinated nitrobenzenes"
 collection: publications
 category: articles
 permalink: /publication/2022-01-01_mauracher

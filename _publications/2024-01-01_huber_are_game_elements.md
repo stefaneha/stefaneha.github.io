@@ -1,5 +1,5 @@
 ---
-title: "Are Game Elements Fueling Learners’ Motivation via Positive Affect?"
+title: "1. Are Game Elements Fueling Learners’ Motivation via Positive Affect?"
 collection: publications
 category: proceedings
 permalink: /publication/2024-01-01_huber_are_game_elements

@@ -1,5 +1,5 @@
 ---
-title: "Leveraging the Potential of Large Language Models in Education Through Playful and Game‑Based Learning"
+title: "57. Leveraging the Potential of Large Language Models in Education Through Playful and Game‑Based Learning"
 collection: publications
 category: articles
 permalink: /publication/2024-02-27_huber_leveraging

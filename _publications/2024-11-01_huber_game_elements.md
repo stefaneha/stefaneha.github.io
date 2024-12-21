@@ -1,5 +1,5 @@
 ---
-title: "Game elements improve affect and motivation in a learning task"
+title: "59. Game elements improve affect and motivation in a learning task"
 collection: publications
 category: articles
 permalink: /publication/2024-11-01_huber_game_elements
