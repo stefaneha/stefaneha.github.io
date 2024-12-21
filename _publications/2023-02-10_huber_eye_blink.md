@@ -1,9 +1,8 @@
 ---
-title: "Task-synchronized eye blink modulation neither requires visual stimulation nor active motor response and is modulated by task predictability
-learning tasks"
+title: "Task-synchronized eye blink modulation neither requires visual stimulation nor active motor response and is modulated by task predictability"
 collection: publications
 category: articles
-permalink: /publication/2023-09-09_huber_game_elements
+permalink: /publication/2023-02-10_huber_game_elements
 excerpt: '<i>Keywords:</i> Eye blinking; Attention; Prediction; Perception; Sensory-motor coordination; Auditory attention task; Synchronization; Predictability'
 date: 2023-02-10
 venue: 'International Journal of Psychophysiology'
