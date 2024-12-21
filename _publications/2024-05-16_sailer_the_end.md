@@ -1,5 +1,5 @@
 ---
-title: "58. The End is the Beginning is the End: The closed-loop learning analytics framework"
+title: "(58) The End is the Beginning is the End: The closed-loop learning analytics framework"
 collection: publications
 category: articles
 permalink: /publication/2024-05-16_sailer_the_end
