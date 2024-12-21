@@ -4,7 +4,7 @@ collection: publications
 category: proceedings
 permalink: /publication/2023-11-29_huber_are_game_elements
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2023-11-29
+date: 2024-01-01
 venue: 'Lecture Notes in Computer Science'
 paperurl: 'https://doi.org/10.1007/978-3-031-49065-1_23'
 citation: 'Huber, S.E., Lindstedt, A., Kiili, K., & Ninaus, M. (2024). Are Game Elements Fueling Learners’ Motivation via Positive Affect? In: Dondio, P., et al. Games and Learning Alliance. GALA 2023. Lecture Notes in Computer Science, vol 14475. Springer, Cham.'
