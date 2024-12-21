@@ -3,7 +3,7 @@ title: "Patterns of eye blinks are modulated by auditory input in humans"
 collection: publications
 category: articles
 permalink: /publication/2021-12-16_huber_eye_blink
-excerpt: '<i>Keywords:</i> Eye blinking; Attention; Prediction; Perception; Sensory-motor coordination; Auditory attention task; Synchronization; Predictability'
+excerpt: '<i>Keywords:</i> Eye blinking; Perception; Auditory attention task; Synchronization; Motor response; Predictability; Behavioral marker'
 date: 2022-01-01
 venue: 'Cognition'
 paperurl: 'https://doi.org/10.1016/j.cognition.2021.104982'
