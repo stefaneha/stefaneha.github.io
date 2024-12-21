@@ -1,0 +1,13 @@
+---
+title: "(34) Plasma–wall interaction studies within the EUROfusion consortium: progress on plasma-facing components development and qualification"
+collection: publications
+category: articles
+permalink: /publication/2017-08-18_brezinsek
+excerpt: '<i>Keywords:</i> Plasma-wall interaction; Plasma-facing components; Nuclear fusion'
+date: 2017-08-18
+venue: 'Nuclear Fusion'
+paperurl: '10.1088/1741-4326/aa796e'
+citation: "Brezinsek, S., et al. (2017). Plasma–wall interaction studies within the EUROfusion consortium: progress on plasma-facing components development and qualification. <i>Nuclear Fusion, 57</i>(11), 116041."
+---
+
+The provision of a particle and power exhaust solution which is compatible with first-wall components and edge-plasma conditions is a key area of present-day fusion research and mandatory for a successful operation of ITER and DEMO. The work package plasma-facing components (WP PFC) within the European fusion programme complements with laboratory experiments, i.e. in linear plasma devices, electron and ion beam loading facilities, the studies performed in toroidally confined magnetic devices, such as JET, ASDEX Upgrade, WEST etc. The connection of both groups is done via common physics and engineering studies, including the qualification and specification of plasma-facing components, and by modelling codes that simulate edge-plasma conditions and the plasma–material interaction as well as the study of fundamental processes. WP PFC addresses these critical points in order to ensure reliable and efficient use of conventional, solid PFCs in ITER (Be and W) and DEMO (W and steel) with respect to heat-load capabilities (transient and steady-state heat and particle loads), lifetime estimates (erosion, material mixing and surface morphology), and safety aspects (fuel retention, fuel removal, material migration and dust formation) particularly for quasi-steady-state conditions. Alternative scenarios and concepts (liquid Sn or Li as PFCs) for DEMO are developed and tested in the event that the conventional solution turns out to not be functional. Here, we present an overview of the activities with an emphasis on a few key results: (i) the observed synergistic effects in particle and heat loading of ITER-grade W with the available set of exposition devices on material properties such as roughness, ductility and microstructure; (ii) the progress in understanding of fuel retention, diffusion and outgassing in different W-based materials, including the impact of damage and impurities like N; and (iii), the preferential sputtering of Fe in EUROFER steel providing an in situ W surface and a potential first-wall solution for DEMO.
