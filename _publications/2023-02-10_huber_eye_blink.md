@@ -1,5 +1,5 @@
 ---
-title: "55. Task-synchronized eye blink modulation neither requires visual stimulation nor active motor response and is modulated by task predictability"
+title: "(55) Task-synchronized eye blink modulation neither requires visual stimulation nor active motor response and is modulated by task predictability"
 collection: publications
 category: articles
 permalink: /publication/2023-02-10_huber_game_elements

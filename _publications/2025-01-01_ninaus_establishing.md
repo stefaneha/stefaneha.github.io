@@ -1,5 +1,5 @@
 ---
-title: "2. Establishing a New Computational Method to Predict Effects of Gaming: A Feasibility Study on Growth Mindset"
+title: "(2) Establishing a New Computational Method to Predict Effects of Gaming: A Feasibility Study on Growth Mindset"
 collection: publications
 category: proceedings
 permalink: /publication/2025-01-01_ninaus_establishing

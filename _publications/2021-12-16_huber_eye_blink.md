@@ -1,5 +1,5 @@
 ---
-title: "52. Patterns of eye blinks are modulated by auditory input in humans"
+title: "(52) Patterns of eye blinks are modulated by auditory input in humans"
 collection: publications
 category: articles
 permalink: /publication/2021-12-16_huber_eye_blink
