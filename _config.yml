@@ -76,12 +76,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   articles:
     title: 'Journal Articles'    
   proceedings:
     title: 'Conference Papers'
+  books:
+    title: 'Books'
   miscellaneous:
     title: 'Book Chapters, Reports, and Other'
 
