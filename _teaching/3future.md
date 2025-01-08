@@ -1,5 +1,5 @@
 ---
-title: "The future? Courses I would like to teach."
+title: "The future? Courses I would like to teach one day."
 collection: teaching
 ---
 

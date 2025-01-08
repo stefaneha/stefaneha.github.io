@@ -3,7 +3,7 @@ title: "The past: Courses that I once held."
 collection: teaching
 ---
 
-A collection of courses I have taught so far.
+A collection of courses that I once held.
 
 Empirical-Experimental Seminar
 ------
