@@ -1,5 +1,5 @@
 ---
-title: "The past: Courses I have taught."
+title: "The past: Courses that I once held."
 collection: teaching
 ---
 
