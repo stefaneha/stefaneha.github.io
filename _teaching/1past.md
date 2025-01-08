@@ -1,7 +1,6 @@
 ---
 title: "The past: Courses I have taught."
 collection: teaching
-type: courses
 ---
 
 A collection of courses I have taught so far.
