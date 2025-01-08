@@ -9,6 +9,10 @@ Science in the Age of Computer Simulation
 ------
 A one-semester discussion section on [Science in the Age of Computer Simulation](https://press.uchicago.edu/ucp/books/book/chicago/S/bo9003670.html){:target="_blank"} based on the book of the same name by Eric Winsberg.
 
+Using Computer Simulation to Teach Statistics
+------
+How can computer simulations be used to teach statistics? In this combination of discussion section and lab we try to find that out together (with the hideous goal to understand statistics better ourselves).
+
 Introduction to Robust Estimation and Hypothesis Testing
 ------
 A one-semester combined lecture and lab course, primarily based on the [book of the same name](https://www.sciencedirect.com/book/9780123869838/introduction-to-robust-estimation-and-hypothesis-testing){:target="_blank"} by Rand R. Wilcox.
