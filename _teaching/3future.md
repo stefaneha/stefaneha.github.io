@@ -11,7 +11,7 @@ A one-semester discussion section on [Science in the Age of Computer Simulation]
 
 Using Computer Simulation to Teach Statistics
 ------
-How can computer simulations be used to teach statistics? In this combination of discussion section and lab we try to find that out together (with the hideous goal to understand statistics better ourselves).
+How can computer simulations be used to teach statistics? In this combination of discussion section and lab we try to find that out together (with the secret goal to understand statistics better ourselves).
 
 Introduction to Robust Estimation and Hypothesis Testing
 ------
