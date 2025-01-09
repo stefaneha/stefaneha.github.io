@@ -13,6 +13,22 @@ Using Computer Simulation to Teach Statistics
 ------
 How can computer simulations be used to teach statistics? In this combination of discussion section and lab we try to find that out together (with the secret goal to understand statistics better ourselves).
 
+Discovering Psychology Using Video Games
+------
+Well-designed video games make efficient use of various psychological mechanisms and processes. 
+This means that various aspects of human behavior can be accessed and explored through the lens of video games. 
+In the first half of this one-semester course (being a combination of a discussion section and a lab) we will explore this 
+fascinating intersection of video game design and psychology, primarily on the basis of the book 
+[The Gamer's Brain](https://www.routledge.com/The-Gamers-Brain-How-Neuroscience-and-UX-Can-Impact-Video-Game-Design/Hodent/p/book/9781498775502?srsltid=AfmBOoo_g7GkgHtfS7AtAQGY7bxCZ7wX7EtNOzNSVNhQzQoch-2o0w46){:target="_blank"} 
+by Celia Hodent. In the second half of the course, we will zoom into a selection of specific games and 
+investigate their psychological aspects in detail.
+
+Introduction to Game-based Learning
+------
+What is game-based learning? What are its psychological foundations? How can games be used to foster learning? In this one-semester course 
+we will explore those questions on the basis of the [Handbook of Game-based Learning](https://mitpress.mit.edu/9780262043380/handbook-of-game-based-learning/){:target="_blank"} 
+by Jan Plass, Richard E. Mayer, and Bruce D. Homer, and further, related literature.
+
 Introduction to Robust Estimation and Hypothesis Testing
 ------
 A one-semester combined lecture and lab course, primarily based on the [book of the same name](https://www.sciencedirect.com/book/9780123869838/introduction-to-robust-estimation-and-hypothesis-testing){:target="_blank"} by Rand R. Wilcox.
