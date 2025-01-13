@@ -85,6 +85,7 @@ Service to the Profession
   * Doctoral School on Computational Interdisciplinary Modelling (FWF DK+ project Computational Interdisciplinary Modelling (DK-CIM) W1227-N16), 2010-2014
 * Reviewer for publications/conference contributions:
   * Journals:
+    * International Journal of Human-Computer Interaction
     * International Journal of Serious Games
     * Scientific Reports
     * Computers & Education
