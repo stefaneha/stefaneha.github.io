@@ -13,7 +13,7 @@ University Education
 ------
 * M.S. in Psychology, University of Innsbruck, 2020
 * B.S. in Psychology, University of Innsbruck, 2018
-* Ph.D in Physics, University of Innsbruck, 2014
+* Ph.D. in Physics, University of Innsbruck, 2014
 * Mag. rer. nat. in Physics, University of Innsbruck, 2010
 
 Work experience
