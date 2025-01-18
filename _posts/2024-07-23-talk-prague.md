@@ -3,10 +3,10 @@ title: 'NEWS: Talk at the International Congress of Psychology 2024 in Prague'
 date: 2024-07-23
 permalink: /posts/2024/07/talk-prague
 tags:
-  - award
-  - speech
-  - future
-  - education
+  - talk
+  - presentation
+  - conference
+  - game-based learning
 ---
 
 I am not Einstein, but I can definitely also say that Prague is worth a visit. The 33rd International Congress of Psychology was in no way inferior to the beauty of Prague. Not only did the congress bring together thousands of researchers from all over the world, but it also gave me the opportunity to present our [research on game-based learning](http://stefaneha.github.io/files/2024-07-23_ICP.pdf){:target="_blank"} to a broad and diverse community.

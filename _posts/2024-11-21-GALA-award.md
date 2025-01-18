@@ -4,9 +4,9 @@ date: 2024-11-21
 permalink: /posts/2024/11/GALA-award
 tags:
   - award
-  - speech
-  - future
-  - education
+  - conference paper
+  - AI
+  - natural language processing
 ---
 
 Feeling honored to be a co-author of another award-worthy paper: [Establishing a new computational method to predict effects of gaming: A feasibility study on growth mindset](https://link.springer.com/chapter/10.1007/978-3-031-78269-5_8){:target="_blank"}.
