@@ -1,5 +1,5 @@
 ---
-title: 'NEWS: Future Education Award'
+title: 'NEWS: GALA 2024 Best Paper Award'
 date: 2024-11-21
 permalink: /posts/2024/11/GALA-award
 tags:
