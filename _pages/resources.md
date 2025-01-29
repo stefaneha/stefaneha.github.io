@@ -6,7 +6,7 @@ author_profile: true
 
 ## Teaching Resources
 
-- Here you can find some material (data files etc.) for my introductory lab course on Computer Applications of Statistics (German title: "Anwendung statistischer Verfahren am Computer"; given at the University of Graz in summer semester, 2025): [CAS Resources](http://stefaneha.github.io/files/250129_asva_resources.zip){:target="_blank"}.
+- Electronic supplemental material for "Anwendung statistischer Verfahren am Computer - Ein Übungsbuch": [ASVC Resources](http://stefaneha.github.io/files/250129_asvc_resources.zip){:target="_blank"}.
 
 <!-- ## Locations of key files/directories
 
