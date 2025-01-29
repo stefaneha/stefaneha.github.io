@@ -4,7 +4,9 @@ title: "Resources"
 author_profile: true
 ---
 
-Under construction.
+## Teaching Resources
+
+- Here you can find the resources for my introductory lab course on Computer Applications of Statistics: [ASVA Resources](http://stefaneha.github.io/files/250129_asva_resources.zip){:target="_blank"}
 
 <!-- ## Locations of key files/directories
 
