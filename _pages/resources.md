@@ -6,7 +6,7 @@ author_profile: true
 
 ## Teaching Resources
 
-- Here you can find the resources for my introductory lab course on Computer Applications of Statistics: [ASVA Resources](http://stefaneha.github.io/files/250129_asva_resources.zip){:target="_blank"}
+- Here you can find some material (data files etc.) for my introductory lab course on Computer Applications of Statistics (held at University of Graz in summer semester, 2025): [CAS Resources](http://stefaneha.github.io/files/250129_asva_resources.zip){:target="_blank"}.
 
 <!-- ## Locations of key files/directories
 
