@@ -6,7 +6,7 @@ collection: projects
 
 <u>Duration of project involvement</u>: 2024 - present.
 
-<u>Cooperation partners</u>: [AT Gesäuse National Park](https://nationalpark-gesaeuse.at/en/){:target="_blank"}; Private Pädagogische Hochschule Augustinum Graz; University of Klagenfurt; Institute of Biology, University of Graz; [Digital Psychology Lab](https://digilab.uni-graz.at/en/){:target="_blank"}, University of Graz. 
+<u>Cooperation partners</u>: [AT Gesäuse National Park](https://nationalpark-gesaeuse.at/en/){:target="_blank"}; Private Pädagogische Hochschule Augustinum Graz (Dr. Christiana Glettler); University of Klagenfurt (Prof. Dr. Franz Rauch); Institute of Biology (Prof. Dr. Maria Müller), University of Graz; [Digital Psychology Lab](https://digilab.uni-graz.at/en/){:target="_blank"} (Prof. Dr. Manuel Ninaus), University of Graz. 
 
 <u>Funding</u>: Federal Ministry Republic of Austria: Agriculture, Forestry, Regions and Water Management (application number: 7.6.1b-BMK-V10-86/22).
 
