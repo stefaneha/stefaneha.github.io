@@ -4,7 +4,7 @@ excerpt: "A collaboration with AT Gesäuse National Park.<br/><img src='/images/
 collection: projects
 ---
 
-<u>Duration of project involvement</u>: 2024 - present.
+<i><u>Duration of project involvement</u></i>: 2024 - present.
 
 <u>Cooperation partners</u>: [AT Gesäuse National Park](https://nationalpark-gesaeuse.at/en/){:target="_blank"}; Private Pädagogische Hochschule Augustinum Graz (Dr. Christiana Glettler); University of Klagenfurt (Prof. Dr. Franz Rauch); Institute of Biology (Prof. Dr. Maria Müller), University of Graz; [Digital Psychology Lab](https://digilab.uni-graz.at/en/){:target="_blank"} (Prof. Dr. Manuel Ninaus), University of Graz. 
 
