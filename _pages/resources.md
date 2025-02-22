@@ -6,7 +6,7 @@ author_profile: true
 
 ## Teaching Resources
 
-- Electronic supplementary material for "Anwendung statistischer Verfahren am Computer - Ein Übungsbuch": [ASVC Resources](http://stefaneha.github.io/files/250221_asvc_resources.zip){:target="_blank"}.
+- Electronic supplementary material for "Anwendung statistischer Verfahren am Computer - Ein Übungsbuch": [ASVC Resources](http://stefaneha.github.io/files/250222_asvc_resources.zip){:target="_blank"}.
 
 <!-- ## Locations of key files/directories
 
