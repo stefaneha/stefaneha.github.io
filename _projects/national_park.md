@@ -1,6 +1,6 @@
 ---
 title: "Nationalpark Partnerschulen - Die Schule der Wildnis"
-excerpt: "A collaboration with AT Gesäuse National Park.<br/><img src='/images/gesäuse.jpg' width='400'> <br/>&copy; Andreas Hollinger"
+excerpt: "A collaboration with AT Gesäuse National Park.<br/><img src='/images/gesäuse.jpg' width='400'> <br/><small>&copy; Andreas Hollinger</small>"
 collection: projects
 ---
 
