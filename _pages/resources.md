@@ -6,7 +6,9 @@ author_profile: true
 
 ## Teaching Resources
 
-- Electronic supplementary material for "Anwendung statistischer Verfahren am Computer - Ein Übungsbuch": [ASVC Resources](http://stefaneha.github.io/files/250228_asvc_resources.zip){:target="_blank"}.
+- The current version of the manuscript for the course "Anwendung statistischer Verfahren am Computer" (existing, sadly, only in German so far): [ASVC manuscript](http://stefaneha.github.io/files/250228_asvc_übungsbuch.pdf){:target="_blank"}.
+- Electronic supplementary material for the course "Anwendung statistischer Verfahren am Computer": [ASVC Resources](http://stefaneha.github.io/files/250228_asvc_resources.zip){:target="_blank"}.
+- Solutions to the exercises for the course "Anwendung statistischer Verfahren am Computer": [ASVC Solutions](http://stefaneha.github.io/files/250228_asvc_solutions.zip){:target="_blank"}.
 
 <!-- ## Locations of key files/directories
 
