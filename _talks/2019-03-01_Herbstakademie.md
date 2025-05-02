@@ -16,10 +16,10 @@ location: "Freiburg, Germany"
 
 <i>Literature</i><br />
 Huber, S. E., Sachse, P., Mauracher, A., Marksteiner, J., Pohl, W., Weiss, E. M., & Canazei, M. (2019). Assessment of Fractal Characteristics of Locomotor Activity of Geriatric In-Patients With Alzheimer’s Dementia. Frontiers in Aging Neuroscience, 11, 272. [https://doi.org/10.3389/fnagi.2019.00272](https://doi.org/10.3389/fnagi.2019.00272){:target="_blank"}<br />
-Kello, C. T., Brown, G. D. A., Ferrer-i-Cancho, R., Holden, J. G., Linkenhaer-Hansen, K., Rhodes, T., & Van Orden, G. C. (2010). Scaling laws in cognitive sciences. Trends in Cognitive Sciences, 14(5). https://doi.org/10.1016/j.tics.2010.02.005<br />
-Li, P., Yu, L., Lim, A. S. P., Buchman, A. S., Scheer, F. A. J. L., Shea, S. A., Schneider, J. A., Bennett, D. A., Hu, K. (2018). Fractal regulation and incident Alzheimer’s disease in elderly individuals. Alzheimer’s & Dementia, 14(9), 1114-1125. https://doi.org/10.1016/j.jalz.2018.03.010<br />
-Nakamura, T., Kiyono, K., Wendt, H., Abry, P., & Yamamoto, Y. (2016). Multiscale Analysis of Intensive Longitudinal Biomedical Signals and Its Clinical Applications. Proceedings of the IEEE, 104(2), 242-261. https://doi.org/10.1109/JPROC.2015.2491979<br />
-Van Orden, G. C., Holden, J. G., & Turvey, M. T. (2003). Self-Organization of Cognitive Performance. Journal of Experimental Psychology, 132(3), 331-350. https://doi.org/10.1037/0096-3445.132.3.331<br />
-West, B. J. (2010). Fractal physiology and the fractional calculus: a perspective. Frontiers in Physiology, 1, 12. https://doi.org/10.3389/fphys.2010.00012
+Kello, C. T., Brown, G. D. A., Ferrer-i-Cancho, R., Holden, J. G., Linkenhaer-Hansen, K., Rhodes, T., & Van Orden, G. C. (2010). Scaling laws in cognitive sciences. Trends in Cognitive Sciences, 14(5). [https://doi.org/10.1016/j.tics.2010.02.005](https://doi.org/10.1016/j.tics.2010.02.005){:target="_blank"}<br />
+Li, P., Yu, L., Lim, A. S. P., Buchman, A. S., Scheer, F. A. J. L., Shea, S. A., Schneider, J. A., Bennett, D. A., Hu, K. (2018). Fractal regulation and incident Alzheimer’s disease in elderly individuals. Alzheimer’s & Dementia, 14(9), 1114-1125. [https://doi.org/10.1016/j.jalz.2018.03.010](https://doi.org/10.1016/j.jalz.2018.03.010){:target="_blank"}<br />
+Nakamura, T., Kiyono, K., Wendt, H., Abry, P., & Yamamoto, Y. (2016). Multiscale Analysis of Intensive Longitudinal Biomedical Signals and Its Clinical Applications. Proceedings of the IEEE, 104(2), 242-261. [https://doi.org/10.1109/JPROC.2015.2491979](https://doi.org/10.1109/JPROC.2015.2491979){:target="_blank"}<br />
+Van Orden, G. C., Holden, J. G., & Turvey, M. T. (2003). Self-Organization of Cognitive Performance. Journal of Experimental Psychology, 132(3), 331-350. [https://doi.org/10.1037/0096-3445.132.3.331](https://doi.org/10.1037/0096-3445.132.3.331){:target="_blank"}<br />
+West, B. J. (2010). Fractal physiology and the fractional calculus: a perspective. Frontiers in Physiology, 1, 12. [https://doi.org/10.3389/fphys.2010.00012](https://doi.org/10.3389/fphys.2010.00012){:target="_blank"}
 
 [Poster](http://stefaneha.github.io/files/2019-03-01_Herbstakademie.pdf){:target="_blank"}
