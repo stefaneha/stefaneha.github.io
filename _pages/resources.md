@@ -6,7 +6,7 @@ author_profile: true
 
 ## Teaching Resources
 
-- The current version of the manuscript for the course "Anwendung statistischer Verfahren am Computer" (existing only in German so far, and possibly forever): [ASVC manuscript](https://stefaneha.github.io/files/25-05-31_asvc_übungsbuch_v112.pdf){:target="_blank"}.
+- The current version of the manuscript for the course "Anwendung statistischer Verfahren am Computer" (existing only in German so far, and possibly forever): [ASVC manuscript](https://stefaneha.github.io/files/25-06-02_asvc_übungsbuch_v112.pdf){:target="_blank"}.
 - Electronic supplementary material for the course "Anwendung statistischer Verfahren am Computer": [ASVC Resources](https://stefaneha.github.io/files/25-05-24_asvc_electronic_supplementary_material.zip){:target="_blank"}.
 
 <!-- ## Locations of key files/directories
