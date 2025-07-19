@@ -1,5 +1,5 @@
 ---
-title: "(68) Fractal analysis of locomotor activity data of geriatric in-patients with dementia"
+title: "(66) Fractal analysis of locomotor activity data of geriatric in-patients with dementia"
 collection: talks
 type: "Poster"
 permalink: /talks/2019-03-01_Herbstakademie
