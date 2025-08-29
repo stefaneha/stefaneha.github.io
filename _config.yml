@@ -83,7 +83,7 @@ publication_category:
   books:
     title: 'Books'
   miscellaneous:
-    title: 'Book Chapters, Reports, and Other'
+    title: 'Miscellaneous (Book chapters, interviews, public relations etc.)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
