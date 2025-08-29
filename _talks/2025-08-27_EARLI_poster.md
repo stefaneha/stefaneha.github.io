@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2025-08-27_EARLI_poster
 venue: "EARLI 2025"
-date: 2025-08-27
+date: 2025-08-27 08:30
 location: "Graz, Austria"
 ---
 

@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-08-27_EARLI_my_talk
 venue: "EARLI 2025"
-date: 2025-08-27
+date: 2025-08-27 12:15
 location: "Graz, Austria"
 ---
 
