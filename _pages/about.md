@@ -15,5 +15,5 @@ Besides pursuing my interest or curiosity in such ethereal things, I like to enj
 
 <figure>
   <img src="/images/DGPs_collage.jpg"/>
-  <figcaption><footer>Well, typical me, captured by Hanna Weber who also formally holds the copyright for those images.</footer></figcaption>
+  <figcaption><footer>Well, typical me, captured by Hanna Rajh-Weber who also formally holds the copyright for those images.</footer></figcaption>
 </figure>

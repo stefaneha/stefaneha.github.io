@@ -11,4 +11,4 @@ A one-semester lab course in the Bachelor's program in Psychology, which I have 
 
 Introduction to Bayesian Estimation and Hypothesis Testing from and for Applied Researchers 1 & 2
 ------
-Two 90-minute workshops, each held as part of the [29th JURE 2025 pre-conference](https://www.earli.org/events/jure2025){:target="_blank"} together with my colleague and friend in statistics and many other nerdy things Hanna Weber.
+Two 90-minute workshops, each held as part of the [29th JURE 2025 pre-conference](https://www.earli.org/events/jure2025){:target="_blank"} together with my colleague and friend in statistics and many other nerdy things Hanna Rajh-Weber.
