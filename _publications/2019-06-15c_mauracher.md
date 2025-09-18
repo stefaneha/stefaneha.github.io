@@ -5,7 +5,7 @@ category: miscellaneous
 permalink: /publication/2019-06-15c_mauracher
 excerpt: '<i>Keywords:</i> public relations; poster; Fest der Wissenschaft (Festival of Science), University of Innsbruck; 14.06.2019-16.06.2019'
 date: 2019-06-15
-venue: 'The Public'
+venue: 'ResearchGate'
 ---
 
 Poster presented at the Festival of Science, organized by the University of Innsbruck, 14.06.2019-16.06.2019.
