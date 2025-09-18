@@ -22,4 +22,4 @@ Nakamura, T., Kiyono, K., Wendt, H., Abry, P., & Yamamoto, Y. (2016). Multiscale
 Van Orden, G. C., Holden, J. G., & Turvey, M. T. (2003). Self-Organization of Cognitive Performance. Journal of Experimental Psychology, 132(3), 331-350. [https://doi.org/10.1037/0096-3445.132.3.331](https://doi.org/10.1037/0096-3445.132.3.331){:target="_blank"}<br />
 West, B. J. (2010). Fractal physiology and the fractional calculus: a perspective. Frontiers in Physiology, 1, 12. [https://doi.org/10.3389/fphys.2010.00012](https://doi.org/10.3389/fphys.2010.00012){:target="_blank"}
 
-[Poster](http://stefaneha.github.io/files/2019-03-01_Herbstakademie.pdf){:target="_blank"}
+[Poster](https://stefaneha.github.io/files/2019-03-01_Herbstakademie.pdf){:target="_blank"}
