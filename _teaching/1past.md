@@ -16,3 +16,7 @@ Two courses (lab/exercises accompanying a corresponding lecture) for the Bachelo
 Calculation of Molecular Properties
 ------
 A one-semester lab course for graduate students enrolled either in the Master's or the PhD program in Physics, which I gave at the [University of Innsbruck](https://www.uibk.ac.at/en/){:target="_blank"} during the summer semester 2023.
+
+Introduction to Bayesian Estimation and Hypothesis Testing from and for Applied Researchers 1 & 2
+------
+Two 90-minute workshops, each held as part of the [29th JURE 2025 pre-conference](https://www.earli.org/events/jure2025){:target="_blank"} together with my colleague and friend in statistics and many other nerdy things Hanna Rajh-Weber.
