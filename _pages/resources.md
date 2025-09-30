@@ -6,8 +6,8 @@ author_profile: true
 
 ## Teaching Resources
 
-- The current version of the manuscript for the course "Anwendung statistischer Verfahren am Computer" (existing only in German so far, and possibly forever): [ASVC manuscript](https://stefaneha.github.io/files/25-09-24_asvc_übungsbuch_v121.pdf){:target="_blank"}.
-- Electronic supplementary material for the course "Anwendung statistischer Verfahren am Computer": [ASVC Resources](https://stefaneha.github.io/files/25-09-05_asvc_electronic_supplementary_material.zip){:target="_blank"}.
+- The current version of the manuscript for the course "Anwendung statistischer Verfahren am Computer" (existing only in German so far, and possibly forever): [ASVC manuscript](https://stefaneha.github.io/files/25-09-30_asvc_übungsbuch_v13.pdf){:target="_blank"}.
+- Electronic supplementary material for the course "Anwendung statistischer Verfahren am Computer": [ASVC Resources](https://stefaneha.github.io/files/25-09-30_asvc_electronic_supplementary_material.zip){:target="_blank"}.
 - Why should anyone bother with Bayesian data analysis after all the effort it took to get to some understanding of Frequentist statistics? There are many authors who have written much better texts about that question, but if you are curious about some perspectives by Hanna Rajh-Weber and me on that issue you can check out our collection of materials in the "JURE2025" folder in our [Learning Statistics by Doing Statistics](https://osf.io/9tcx3/){:target="_blank"} project.
 
 <!-- ## Locations of key files/directories
