@@ -5,6 +5,18 @@ collection: teaching
 
 A collection of courses I would like to teach one day.
 
+Understanding and Applying Basic Statistical Methods Using R
+------
+A one-semester combined lecture and lab course (or discussion section), primarily based on the [book of the same name](https://www.wiley-vch.de/de/fachgebiete/mathematik-und-statistik/understanding-and-applying-basic-statistical-methods-using-r-978-1-119-06139-7){:target="_blank"} by Rand R. Wilcox.
+
+Introduction to Robust Estimation and Hypothesis Testing
+------
+A two-semester combined lecture and lab course on methods for parameter estimation and hypothesis testing (using Tukey's sensible approach) when assumptions of classical methods are not met or outliers are an issue; primarily based on the [book of the same name](https://www.sciencedirect.com/book/9780123869838/introduction-to-robust-estimation-and-hypothesis-testing){:target="_blank"} by Rand R. Wilcox.
+
+Advanced Methods in Statistical Learning
+------
+A one-semester discussion section on specific advanced methods in statistical learning like generalized linear models, classification methods, cross-validation, shrinkage methods, tree-based methods, support vector machines, deep learning etc. For instance, based on the seminal textbook by [James, Witten, Hastie, and Tibshirani](https://www.statlearning.com/){:target="_blank"}.
+
 Science in the Age of Computer Simulation
 ------
 A one-semester discussion section on [Science in the Age of Computer Simulation](https://press.uchicago.edu/ucp/books/book/chicago/S/bo9003670.html){:target="_blank"} based on the book of the same name by Eric Winsberg.
@@ -13,9 +25,14 @@ Using Computer Simulation to Teach Statistics
 ------
 How can computer simulations be used to teach statistics? In this combination of discussion section and lab we try to find that out together (with the secret goal to understand statistics better ourselves).
 
-Introduction to Bayesian Data Analysis for Social Scientists
+Introduction to Bayesian Inference and Data Analysis for Social Scientists
 ------
-A one-semester introduction (ideally a combination of lecture and lab) to Bayesian data analysis based primarily on the following books:
+A one-semester introduction (ideally a combination of lecture and lab) to Bayesian inference and data analysis based on the prize-winning book (https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919){:target="_blank"} by Richard McElreath.
+
+A Tutorial on Bayesian Data Analysis for Psychologists
+------
+A two-semester lecture and lab course (or discussion section) on the basis of John K. Kruschke's [book](https://www.sciencedirect.com/book/monograph/9780124058880/doing-bayesian-data-analysis){:target="_blank"}.
+introduction (ideally a combination of lecture and lab) to Bayesian data analysis based primarily on the following books:
 
 - Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). <i> Bayesian Data Analysis </i>. CRC Press.
 - McElreath, R. (2020). <i> Statistical Rethinking. A Bayesian Course with Examples in R and Stan. </i> CRC Press.
@@ -35,13 +52,5 @@ investigate their psychological aspects in detail.
 Introduction to Game-based Learning
 ------
 What is game-based learning? What are its psychological foundations? How can games be used to foster learning? In this one-semester course 
-we will explore those questions on the basis of the [Handbook of Game-based Learning](https://mitpress.mit.edu/9780262043380/handbook-of-game-based-learning/){:target="_blank"} 
+we explore those questions on the basis of the [Handbook of Game-based Learning](https://mitpress.mit.edu/9780262043380/handbook-of-game-based-learning/){:target="_blank"} 
 by Jan Plass, Richard E. Mayer, and Bruce D. Homer, and further, related literature.
-
-Introduction to Robust Estimation and Hypothesis Testing
-------
-A one-semester combined lecture and lab course, primarily based on the [book of the same name](https://www.sciencedirect.com/book/9780123869838/introduction-to-robust-estimation-and-hypothesis-testing){:target="_blank"} by Rand R. Wilcox.
-
-Dealing with Inferential Uncertainty or the Foundation of a General Theory of Induction
-------
-A two-semester lecture (ideally accompanied by a corresponding lab) on the first two volumes of David J. Blower's [Information Processing](https://www.bayesinaction.nl/books-david-j-blower/){:target="_blank"} series.
