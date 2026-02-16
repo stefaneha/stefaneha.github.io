@@ -34,11 +34,6 @@ A Tutorial on Bayesian Data Analysis for Psychologists
 A two-semester lecture and lab course (or discussion section) on the basis of John K. Kruschke's [book](https://www.sciencedirect.com/book/monograph/9780124058880/doing-bayesian-data-analysis){:target="_blank"}.
 introduction (ideally a combination of lecture and lab) to Bayesian data analysis based primarily on the following books:
 
-- Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). <i> Bayesian Data Analysis </i>. CRC Press.
-- McElreath, R. (2020). <i> Statistical Rethinking. A Bayesian Course with Examples in R and Stan. </i> CRC Press.
-- Kruschke, J. (2014). <i> Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan. </i> Academic Press.
-- Johnson, A. A., Ott, M. Q., & Dogucu, M. (2021). <i> Bayes Rules! An Introduction to Applied Bayesian Modeling. </i> CRC Press.
-
 Discovering Psychology Using Video Games
 ------
 Well-designed video games make efficient use of various psychological mechanisms and processes. 
