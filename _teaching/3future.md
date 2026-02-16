@@ -27,12 +27,16 @@ How can computer simulations be used to teach statistics? In this combination of
 
 Introduction to Bayesian Inference and Data Analysis for Social Scientists
 ------
-A one-semester introduction (ideally a combination of lecture and lab) to Bayesian inference and data analysis based on the prize-winning book (https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919){:target="_blank"} by Richard McElreath.
+A one-semester introduction (ideally a combination of lecture and lab) to Bayesian inference and data analysis based on the prize-winning [book](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919){:target="_blank"} by Richard McElreath.
 
 A Tutorial on Bayesian Data Analysis for Psychologists
 ------
 A two-semester lecture and lab course (or discussion section) on the basis of John K. Kruschke's [book](https://www.sciencedirect.com/book/monograph/9780124058880/doing-bayesian-data-analysis){:target="_blank"}.
 introduction (ideally a combination of lecture and lab) to Bayesian data analysis based primarily on the following books:
+
+Nonlinear Time Series Analysis for Psychologists
+------
+A one-semester discussion section on topics and concepts of nonlinear time series analysis like recurrence quantification analysis, fractal analysis, autocorrelation, noise, entropy, information.
 
 Discovering Psychology Using Video Games
 ------
