@@ -25,6 +25,10 @@ Using Computer Simulation to Teach Statistics
 ------
 How can computer simulations be used to teach statistics? In this combination of discussion section and lab we try to find that out together (with the secret goal to understand statistics better ourselves).
 
+Historical and epistemological foundations of psychology
+------
+A discussion section on the historical and epistemological roots of psychology.
+
 Introduction to Bayesian Inference and Data Analysis for Social Scientists
 ------
 A one-semester introduction (ideally a combination of lecture and lab) to Bayesian inference and data analysis based on the prize-winning [book](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919){:target="_blank"} by Richard McElreath.
