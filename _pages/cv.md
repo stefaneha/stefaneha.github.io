@@ -85,15 +85,11 @@ Service to the Profession
   * Doctoral School on Computational Interdisciplinary Modelling (FWF DK+ project Computational Interdisciplinary Modelling (DK-CIM) W1227-N16), 2010-2014
 * Reviewer for publications/conference contributions:
   * Journals:
+    * International Journal of Human-Computer Studies
     * International Journal of Human-Computer Interaction
+    * International Journal of Psychophysiology
     * International Journal of Serious Games
-    * Scientific Reports
-    * Computers & Education
-    * Entropy
-    * PLoS ONE
-    * Nanoscale
-    * Journal of Applied Physics
-    * The Journal of Chemical Physics
+    * Universal Access to the Information Society
   * Conferences:
     * Joint DGPs/ÖGP Congress in Vienna, Austria, 2024
     * Future Education Conference in Graz, Austria, 2024
