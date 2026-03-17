@@ -3,7 +3,7 @@ title: "(65) Using heteroskedasticity-consistent standard errors and the bootstr
 collection: publications
 category: articles
 permalink: /publication/2026-02-18_rajh-weber
-excerpt: '<i>Keywords:</i> linear regression; violated assumptions; bootstrap; robust inference; simulation'
+excerpt: '<i>Keywords:</i> SPSS; robust standard error; bootstrap; heteroskedasticity; nonnormality; open materials'
 date: 2026-02-18
 venue: 'Advances in Methods and Practices in Psychological Science'
 paperurl: 'https://doi.org/10.1177/25152459251408046'
