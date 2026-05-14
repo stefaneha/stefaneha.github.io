@@ -8,7 +8,9 @@ author_profile: true
 
 - The current version of the manuscript for the course "Anwendung statistischer Verfahren am Computer" (existing only in German so far, and possibly forever): [ASVC manuscript](https://stefaneha.github.io/files/26-02-26_asvc_übungsbuch_v1405.pdf){:target="_blank"}.
 - Electronic supplementary material for the course "Anwendung statistischer Verfahren am Computer": [ASVC Resources](https://stefaneha.github.io/files/26-01-23_asvc_electronic_supplementary_material.zip){:target="_blank"}.
+- All workshop materials for the two-day workshop on Bayesian statistics and data analysis given by Hanna Rajh-Weber and me, and offered by the Graz Center for Empirical Research (GMZ) can be found in the "GMZ_WS_2026" folder in our [Learning Statistics by Doing Statistics](https://osf.io/9tcx3/){:target="_blank"} project.
 - Why should anyone bother with Bayesian data analysis after all the effort it took to get to some understanding of Frequentist statistics? There are many authors who have written much better texts about that question, but if you are curious about some perspectives by Hanna Rajh-Weber and me on that issue you can check out our collection of materials in the "JURE2025" folder in our [Learning Statistics by Doing Statistics](https://osf.io/9tcx3/){:target="_blank"} project.
+
 
 <!-- ## Locations of key files/directories
 
